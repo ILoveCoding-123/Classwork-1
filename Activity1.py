@@ -1,3 +1,5 @@
-print("I love soccer and cricket.")
-print(8+19)
-print("The sum of 2 numbers is", 34+17)
+print("I have many hobbies.")
+print("I like to code.")
+print("I like playing and watching soccer.")
+print("I like playing and watching cricket.")
+print("These are some of the many hobbies that I have.")
