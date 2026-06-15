@@ -1,0 +1,5 @@
+print("Tyler's birthday is on the 17th of June.")
+print("John's birthday is on the 21st of September.")
+print("Mark's birthday is on the 4th of December.")
+print("Jordan's birthday is on the 27th of April.")
+print("My birthday is on the 10th of July.")

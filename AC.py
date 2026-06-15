@@ -1,0 +1,6 @@
+print("First, I wake up.")
+print("Then, I brush my teeth.")
+print("Next, I change my clothes.")
+print("After that, I eat breakfast.")
+print("Finally, I get in my car and one of my parents drives me to school.")
+print("This is my daily routine before going to school.")
