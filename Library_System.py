@@ -35,6 +35,3 @@ print("\n--- Demonstrating Returning ---")
 book1.return_book()
 book2.return_book()
 book3.return_book()
-
-
-    
